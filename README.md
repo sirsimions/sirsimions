@@ -1,6 +1,6 @@
 ### Hi there 👋, Simion Okola
 #### Junior Full Stack Developer
-I am Simion Okola from Kenya, and I am a fullstack developer specializing in React, JavaScript, Ruby, Rails, HTML, and CSS. I enjoy learning programming languages, and currently I am doing C++ (self-taught).
+I am Simion Okola from Kenya, and I am a fullstack developer specializing in React, JavaScript, Ruby, Rails, HTML, and CSS. I enjoy learning programming languages, and currently I am doing Python.
 
 Skills: REACT /RUBY /RAILS/ JS / HTML / CSS
 
