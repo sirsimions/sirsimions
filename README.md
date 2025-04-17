@@ -3,9 +3,7 @@
 I am Simion Okola from Kenya, and I am a fullstack developer specializing in React, JavaScript, Ruby, Rails, HTML, and CSS. I enjoy learning programming languages.
 
 Skills: REACT /RUBY /RAILS/ JS / HTML / CSS
-
-- 🔭 I’m currently working on a project that aims to connect patients with doctors remotely 
-- 🌱 I’m currently learning Python  
+ 
 - 📫 How to reach me: okola.simion168@gmail.com 
 
 
